@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+pytesseract
+pillow
+opencv-python
+numpy
+together
+python-dotenv
+pytesseract
+python-multipart
